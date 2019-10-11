@@ -16,6 +16,8 @@ As stated above, the main purpose is to provide simple examples for Git training
 
 ## How To Contribute
 
+Just branch the project and then pull changes.
+
 ### Copyright
 
 Git Training 2014.
