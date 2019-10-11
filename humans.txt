@@ -2,7 +2,7 @@
 # The humans responsible & technology colophon
 
 # TEAM
-
+	Martin Fernandez -- Developer -- @martez_ok
     <name> -- <role> -- <twitter>
 
 # THANKS
